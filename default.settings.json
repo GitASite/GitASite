@@ -1,0 +1,8 @@
+{
+    "site": {
+        "name": "My Website",
+        "description": "Welcome to my website created with GitASite!",
+        "logo": "",
+        "type": ["INFO_SITE", "APP_MARKETING", "PORTFOLIO"]
+    }
+}
