@@ -2,7 +2,7 @@
     "site": {
         "name": "My Website",
         "logo": "",
-        "type": ["INFO_SITE", "APP_MARKETING", "PORTFOLIO"]
+        "type": ["INFO_SITE", "APP_MARKETING", "PORTFOLIO"],
         "meta": {
             "description": "Welcome to my website created with GitASite!",
             "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
