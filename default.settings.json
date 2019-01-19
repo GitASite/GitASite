@@ -3,6 +3,5 @@
     "logo": "",
     "type": ["INFO_SITE", "APP_MARKETING", "PORTFOLIO"],
     "description": "Welcome to my website created with GitASite!",
-    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
-    "_base_path": ""
+    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
 }
