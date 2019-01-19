@@ -1,5 +1,5 @@
 {
-    "name": "My Website",
+    "site_name": "My Website",
     "logo": "",
     "type": ["INFO_SITE", "APP_MARKETING", "PORTFOLIO"],
     "description": "Welcome to my website created with GitASite!",
