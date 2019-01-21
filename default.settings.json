@@ -1,7 +1,7 @@
 {
-    "site_name": "My Website",
+    "site_name": "",
     "logo": "",
     "type": ["INFO_SITE", "APP_MARKETING", "PORTFOLIO"],
-    "description": "Welcome to my website created with GitASite!",
+    "description": "",
     "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
 }
